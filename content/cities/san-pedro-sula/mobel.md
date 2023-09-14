@@ -1,5 +1,5 @@
 ---
 title: "Möbel"
-url: /san-pedro-sula/moebel/
+url: /san-pedro-sula/mobel/
 shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Llantera"
-url: /comayagueela/llantera/
+url: /comayaguela/llantera/
 shop: neumáticos
 ---

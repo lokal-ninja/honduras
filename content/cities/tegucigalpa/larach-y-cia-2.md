@@ -1,5 +1,5 @@
 ---
 title: "Larach & Cia"
-url: /tegucigalpa/larach-und-cia/
+url: /tegucigalpa/larach-y-cia-2/
 shop: general
 ---

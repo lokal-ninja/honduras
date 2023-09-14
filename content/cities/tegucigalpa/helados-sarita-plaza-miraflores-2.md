@@ -1,5 +1,5 @@
 ---
 title: "Helados Sarita Plaza Miraflores"
-url: /tegucigalpa/helados-sarita-plaza-miraflores/
+url: /tegucigalpa/helados-sarita-plaza-miraflores-2/
 shop: general
 ---

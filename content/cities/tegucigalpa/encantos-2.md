@@ -1,5 +1,5 @@
 ---
 title: "Encantos"
-url: /tegucigalpa/encantos/
+url: /tegucigalpa/encantos-2/
 shop: quiosco
 ---

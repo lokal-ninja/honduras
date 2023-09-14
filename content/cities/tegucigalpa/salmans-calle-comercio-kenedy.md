@@ -1,5 +1,5 @@
 ---
 title: "Salmans"
-url: /tegucigalpa/salmans/
+url: /tegucigalpa/salmans-calle-comercio-kenedy/
 shop: panadería
 ---

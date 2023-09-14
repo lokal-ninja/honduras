@@ -1,5 +1,5 @@
 ---
 title: "K&M Center"
-url: /tela/kundm-center/
+url: /tela/kym-center/
 shop: general
 ---

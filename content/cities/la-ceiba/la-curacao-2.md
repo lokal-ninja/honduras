@@ -1,5 +1,5 @@
 ---
 title: "La Curacao"
-url: /la-ceiba/la-curacao/
+url: /la-ceiba/la-curacao-2/
 shop: electrónica
 ---

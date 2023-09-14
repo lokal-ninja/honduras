@@ -1,5 +1,5 @@
 ---
 title: "Jetstereo"
-url: /tegucigalpa/jetstereo/
+url: /tegucigalpa/jetstereo-blv-juan-pablo/
 shop: electrónica
 ---

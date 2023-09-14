@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Americanas"
-url: /san-pedro-sula/pinturas-americanas/
+url: /san-pedro-sula/pinturas-americanas-avenida-circunvalacion/
 shop: pintura
 ---

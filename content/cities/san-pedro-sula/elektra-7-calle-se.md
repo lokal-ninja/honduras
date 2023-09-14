@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
-url: /san-pedro-sula/elektra/
+url: /san-pedro-sula/elektra-7-calle-se/
 shop: electrónica
 ---

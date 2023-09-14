@@ -1,5 +1,5 @@
 ---
 title: "Lavandería Clean & Mas"
-url: /san-pedro-sula/lavanderia-clean-und-mas/
+url: /san-pedro-sula/lavanderia-clean-y-mas/
 shop: lavandería
 ---

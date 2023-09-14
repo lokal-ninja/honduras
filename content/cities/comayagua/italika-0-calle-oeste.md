@@ -1,5 +1,5 @@
 ---
 title: "Italika"
-url: /comayagua/italika/
+url: /comayagua/italika-0-calle-oeste/
 shop: motocicleta
 ---

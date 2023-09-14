@@ -1,5 +1,5 @@
 ---
 title: "B&B Auto Center"
-url: /tegucigalpa/bundb-auto-center/
+url: /tegucigalpa/byb-auto-center/
 shop: reparación de automóviles
 ---

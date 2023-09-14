@@ -1,5 +1,5 @@
 ---
 title: "K&C Motors"
-url: /san-pedro-sula/kundc-motors/
+url: /san-pedro-sula/kyc-motors/
 shop: motocicleta
 ---

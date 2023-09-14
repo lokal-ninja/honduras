@@ -1,5 +1,5 @@
 ---
 title: "Allis & Matt Store"
-url: /copan-ruinas/allis-und-matt-store/
+url: /copan-ruinas/allis-y-matt-store/
 shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Comercial M&M"
-url: /siguatepeque/comercial-mundm/
+url: /siguatepeque/comercial-mym/
 shop: general
 ---

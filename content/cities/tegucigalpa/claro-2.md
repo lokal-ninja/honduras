@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /tegucigalpa/claro/
+url: /tegucigalpa/claro-2/
 shop: teléfono móvil
 ---

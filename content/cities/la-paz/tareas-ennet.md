@@ -1,5 +1,5 @@
 ---
 title: "Tareas @Net"
-url: /la-paz/tareas-annet/
+url: /la-paz/tareas-ennet/
 shop: general
 ---

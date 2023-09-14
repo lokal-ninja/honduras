@@ -1,5 +1,5 @@
 ---
 title: "Macdel"
-url: /san-pedro-sula/macdel/
+url: /san-pedro-sula/macdel-avenida-circunvalacion/
 shop: general
 ---

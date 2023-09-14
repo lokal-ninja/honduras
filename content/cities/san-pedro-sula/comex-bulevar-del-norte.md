@@ -1,5 +1,5 @@
 ---
 title: "Comex"
-url: /san-pedro-sula/comex/
+url: /san-pedro-sula/comex-bulevar-del-norte/
 shop: pintura
 ---

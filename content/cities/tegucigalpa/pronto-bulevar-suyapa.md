@@ -1,5 +1,5 @@
 ---
 title: "Pronto"
-url: /tegucigalpa/pronto/
+url: /tegucigalpa/pronto-bulevar-suyapa/
 shop: comodidad
 ---

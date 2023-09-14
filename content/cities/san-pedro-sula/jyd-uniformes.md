@@ -1,5 +1,5 @@
 ---
 title: "J&D Uniformes"
-url: /san-pedro-sula/jundd-uniformes/
+url: /san-pedro-sula/jyd-uniformes/
 shop: general
 ---
