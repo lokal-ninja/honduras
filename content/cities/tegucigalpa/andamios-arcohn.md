@@ -1,5 +1,5 @@
 ---
 title: "Andamios Arcohn"
-url: /distrito-morazan/andamios-arcohn/
+url: /tegucigalpa/andamios-arcohn/
 shop: alquiler
 ---
