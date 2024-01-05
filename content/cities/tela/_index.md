@@ -1,6 +1,6 @@
 ---
 title: Tela
 url: /tela/
-latitude: 15.782
-longitude: -87.45
+latitude: 15.784
+longitude: -87.449
 ---
