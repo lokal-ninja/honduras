@@ -1,5 +1,5 @@
 ---
 title: "City Gold"
 url: /san-pedro-sula/city-gold/
-shop: general
+shop: prestamista
 ---
