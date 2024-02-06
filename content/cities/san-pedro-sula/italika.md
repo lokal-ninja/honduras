@@ -1,5 +1,5 @@
 ---
 title: "Italika"
 url: /san-pedro-sula/italika/
-shop: general
+shop: piezas de automóviles
 ---
