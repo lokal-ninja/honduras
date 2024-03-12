@@ -1,6 +1,6 @@
 ---
 title: Puerto Lempira
 url: /puerto-lempira/
-latitude: 15.27
-longitude: -83.776
+latitude: 15.266
+longitude: -83.785
 ---
