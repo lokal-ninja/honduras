@@ -1,6 +1,6 @@
 ---
-title: French Harbour
+title: French harbour
 url: /french-harbour/
-latitude: 16.351
-longitude: -86.465
+latitude: 16.376
+longitude: -86.466
 ---
