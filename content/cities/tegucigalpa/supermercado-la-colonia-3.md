@@ -1,5 +1,5 @@
 ---
 title: "Supermercado La Colonia"
-url: /tegucigalpa/supermercado-la-colonia-blv-la-hacienda/
+url: /tegucigalpa/supermercado-la-colonia-3/
 shop: supermercado
 ---
