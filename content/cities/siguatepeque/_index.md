@@ -1,6 +1,6 @@
 ---
 title: Siguatepeque
 url: /siguatepeque/
-latitude: 14.596
-longitude: -87.85
+latitude: 14.597
+longitude: -87.845
 ---
