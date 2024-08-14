@@ -1,6 +1,6 @@
 ---
 title: La Ceiba
 url: /la-ceiba/
-latitude: 15.789
-longitude: -86.793
+latitude: 15.77
+longitude: -86.79
 ---
