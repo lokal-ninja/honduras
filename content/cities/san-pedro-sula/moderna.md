@@ -1,5 +1,5 @@
 ---
 title: "Moderna"
 url: /san-pedro-sula/moderna/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DEMESA"
 url: /san-pedro-sula/demesa/
-shop: general
+shop: Allgemein
 ---

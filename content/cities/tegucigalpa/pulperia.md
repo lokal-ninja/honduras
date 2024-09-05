@@ -1,5 +1,5 @@
 ---
 title: "Pulpería"
 url: /tegucigalpa/pulperia/
-shop: comodidad
+shop: Lebensmittel
 ---

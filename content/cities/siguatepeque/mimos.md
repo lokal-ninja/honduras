@@ -1,5 +1,5 @@
 ---
 title: "Mimo's"
 url: /siguatepeque/mimos/
-shop: general
+shop: Allgemein
 ---

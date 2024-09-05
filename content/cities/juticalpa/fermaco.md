@@ -1,5 +1,5 @@
 ---
 title: "Fermaco"
 url: /juticalpa/fermaco/
-shop: hardware
+shop: Eisenwaren
 ---

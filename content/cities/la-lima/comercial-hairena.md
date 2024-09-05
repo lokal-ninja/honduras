@@ -1,5 +1,5 @@
 ---
 title: "Comercial Hairena"
 url: /la-lima/comercial-hairena/
-shop: general
+shop: Allgemein
 ---

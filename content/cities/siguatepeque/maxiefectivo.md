@@ -1,5 +1,5 @@
 ---
 title: "Maxiefectivo"
 url: /siguatepeque/maxiefectivo/
-shop: prestamista
+shop: Leiher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TecniCentroComp"
 url: /tegucigalpa/tecnicentrocomp/
-shop: radiotecnia
+shop: Radiotechnik
 ---

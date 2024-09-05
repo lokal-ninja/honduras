@@ -1,5 +1,5 @@
 ---
 title: "loteria"
 url: /comayaguela/loteria/
-shop: lotería
+shop: Lotterie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Molinero's"
 url: /san-pedro-sula/molineros/
-shop: general
+shop: Allgemein
 ---

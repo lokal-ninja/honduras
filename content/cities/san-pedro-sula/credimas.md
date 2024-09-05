@@ -1,5 +1,5 @@
 ---
 title: "CrediMás"
 url: /san-pedro-sula/credimas/
-shop: prestamista
+shop: Leiher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferromax"
 url: /comayagua/ferromax/
-shop: comercio
+shop: Baustoffe
 ---

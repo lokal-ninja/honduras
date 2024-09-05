@@ -1,5 +1,5 @@
 ---
 title: "Ferretechos"
 url: /siguatepeque/ferretechos/
-shop: comercio
+shop: Baustoffe
 ---

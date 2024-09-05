@@ -1,5 +1,5 @@
 ---
 title: "Kielsa"
 url: /marcala/kielsa/
-shop: farmacia
+shop: Drogerie
 ---

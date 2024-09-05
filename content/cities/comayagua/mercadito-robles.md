@@ -1,5 +1,5 @@
 ---
 title: "Mercadito Robles"
 url: /comayagua/mercadito-robles/
-shop: general
+shop: Allgemein
 ---

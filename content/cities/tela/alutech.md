@@ -1,5 +1,5 @@
 ---
 title: "Alutech"
 url: /tela/alutech/
-shop: comercio
+shop: Baustoffe
 ---

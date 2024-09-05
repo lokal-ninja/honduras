@@ -1,5 +1,5 @@
 ---
 title: "Frio Parte"
 url: /san-pedro-sula/frio-parte/
-shop: general
+shop: Allgemein
 ---

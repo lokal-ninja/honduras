@@ -1,5 +1,5 @@
 ---
 title: "IDH"
 url: /siguatepeque/idh/
-shop: prestamista
+shop: Leiher
 ---

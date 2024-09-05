@@ -1,5 +1,5 @@
 ---
 title: "Pan y Mas Plaza Miraflores"
 url: /tegucigalpa/pan-y-mas-plaza-miraflores/
-shop: general
+shop: Allgemein
 ---

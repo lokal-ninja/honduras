@@ -1,5 +1,5 @@
 ---
 title: "Allure"
 url: /comayagua/allure/
-shop: cosméticos
+shop: Kosmetik
 ---

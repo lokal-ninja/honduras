@@ -1,5 +1,5 @@
 ---
 title: "Brilanti"
 url: /tegucigalpa/brilanti/
-shop: joyería
+shop: Schmuck
 ---

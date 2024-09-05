@@ -1,5 +1,5 @@
 ---
 title: "Autollantas"
 url: /tegucigalpa/autollantas/
-shop: general
+shop: Allgemein
 ---

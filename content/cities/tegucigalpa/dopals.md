@@ -1,5 +1,5 @@
 ---
 title: "Dopals"
 url: /tegucigalpa/dopals/
-shop: general
+shop: Allgemein
 ---

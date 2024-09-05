@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /la-ceiba/kia/
-shop: coche
+shop: Autohaus
 ---

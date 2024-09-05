@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Americanas"
 url: /el-progreso/pinturas-americanas/
-shop: pintura
+shop: Farben
 ---

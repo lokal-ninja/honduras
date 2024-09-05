@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /comayagua/food-mart/
-shop: comodidad
+shop: Lebensmittel
 ---

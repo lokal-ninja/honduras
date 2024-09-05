@@ -1,5 +1,5 @@
 ---
 title: "Elements"
 url: /tegucigalpa/elements/
-shop: muebles
+shop: Möbel
 ---

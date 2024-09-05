@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Canales"
 url: /san-juan-pueblo/supermercado-canales/
-shop: supermercado
+shop: Supermarkt
 ---

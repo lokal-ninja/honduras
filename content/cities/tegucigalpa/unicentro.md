@@ -1,5 +1,5 @@
 ---
 title: "Unicentro"
 url: /tegucigalpa/unicentro/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Despensa Familiar"
 url: /san-lorenzo/despensa-familiar/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Herbalife"
 url: /tegucigalpa/herbalife/
-shop: general
+shop: Allgemein
 ---

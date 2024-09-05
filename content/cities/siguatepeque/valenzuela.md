@@ -1,5 +1,5 @@
 ---
 title: "Valenzuela"
 url: /siguatepeque/valenzuela/
-shop: general
+shop: Allgemein
 ---

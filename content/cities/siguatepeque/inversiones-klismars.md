@@ -1,5 +1,5 @@
 ---
 title: "Inversiones Klismar's"
 url: /siguatepeque/inversiones-klismars/
-shop: general
+shop: Allgemein
 ---

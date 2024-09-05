@@ -1,5 +1,5 @@
 ---
 title: "Sweet"
 url: /la-ceiba/sweet/
-shop: general
+shop: Allgemein
 ---

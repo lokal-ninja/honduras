@@ -1,5 +1,5 @@
 ---
 title: "Super Llantas Europeas"
 url: /el-progreso/super-llantas-europeas/
-shop: neumáticos
+shop: Reifen
 ---

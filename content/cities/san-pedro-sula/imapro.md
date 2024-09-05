@@ -1,5 +1,5 @@
 ---
 title: "IMAPRO"
 url: /san-pedro-sula/imapro/
-shop: general
+shop: Allgemein
 ---

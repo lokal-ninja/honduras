@@ -1,5 +1,5 @@
 ---
 title: "Detektor"
 url: /tegucigalpa/detektor/
-shop: general
+shop: Allgemein
 ---

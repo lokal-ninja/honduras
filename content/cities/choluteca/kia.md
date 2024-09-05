@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /choluteca/kia/
-shop: coche
+shop: Autohaus
 ---

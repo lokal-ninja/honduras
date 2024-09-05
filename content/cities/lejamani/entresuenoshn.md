@@ -1,5 +1,5 @@
 ---
 title: "EntreSueñosHn"
 url: /lejamani/entresuenoshn/
-shop: fiesta
+shop: Partyzubehör
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Portomax"
 url: /tegucigalpa/portomax/
-shop: general
+shop: Allgemein
 ---

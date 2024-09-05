@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /tegucigalpa/claro/
-shop: general
+shop: Allgemein
 ---

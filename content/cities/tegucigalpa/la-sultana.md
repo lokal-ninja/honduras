@@ -1,5 +1,5 @@
 ---
 title: "La Sultana"
 url: /tegucigalpa/la-sultana/
-shop: general
+shop: Allgemein
 ---

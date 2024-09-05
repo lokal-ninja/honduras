@@ -1,5 +1,5 @@
 ---
 title: "Llantiman"
 url: /comayagua/llantiman/
-shop: neumáticos
+shop: Reifen
 ---

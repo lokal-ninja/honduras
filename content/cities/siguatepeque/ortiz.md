@@ -1,5 +1,5 @@
 ---
 title: "Ortiz"
 url: /siguatepeque/ortiz/
-shop: muebles
+shop: Möbel
 ---

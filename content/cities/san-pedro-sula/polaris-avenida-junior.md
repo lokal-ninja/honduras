@@ -1,5 +1,5 @@
 ---
 title: "Polaris"
 url: /san-pedro-sula/polaris-avenida-junior/
-shop: comercio
+shop: Baustoffe
 ---

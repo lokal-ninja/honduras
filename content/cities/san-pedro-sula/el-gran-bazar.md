@@ -1,5 +1,5 @@
 ---
 title: "El Gran Bazar"
 url: /san-pedro-sula/el-gran-bazar/
-shop: general
+shop: Allgemein
 ---

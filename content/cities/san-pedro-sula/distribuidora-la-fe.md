@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora La Fe"
 url: /san-pedro-sula/distribuidora-la-fe/
-shop: general
+shop: Allgemein
 ---

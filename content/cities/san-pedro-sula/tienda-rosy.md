@@ -1,5 +1,5 @@
 ---
 title: "Tienda Rosy"
 url: /san-pedro-sula/tienda-rosy/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waimin Plaza Miraflores"
 url: /tegucigalpa/waimin-plaza-miraflores/
-shop: general
+shop: Allgemein
 ---

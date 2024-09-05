@@ -1,5 +1,5 @@
 ---
 title: "Pulpería Don Beto"
 url: /tegucigalpa/pulperia-don-beto/
-shop: comodidad
+shop: Lebensmittel
 ---

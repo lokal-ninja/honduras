@@ -1,5 +1,5 @@
 ---
 title: "Plaza Panama"
 url: /san-pedro-sula/plaza-panama/
-shop: general
+shop: Allgemein
 ---

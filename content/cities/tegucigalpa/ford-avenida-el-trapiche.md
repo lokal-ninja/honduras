@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /tegucigalpa/ford-avenida-el-trapiche/
-shop: coche
+shop: Autohaus
 ---

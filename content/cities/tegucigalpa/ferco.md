@@ -1,5 +1,5 @@
 ---
 title: "FERCO"
 url: /tegucigalpa/ferco/
-shop: general
+shop: Allgemein
 ---

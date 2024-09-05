@@ -1,5 +1,5 @@
 ---
 title: "Tortillería la Mexicana"
 url: /tegucigalpa/tortilleria-la-mexicana/
-shop: supermercado
+shop: Supermarkt
 ---

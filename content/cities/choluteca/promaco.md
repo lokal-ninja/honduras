@@ -1,5 +1,5 @@
 ---
 title: "Promaco"
 url: /choluteca/promaco/
-shop: hardware
+shop: Eisenwaren
 ---

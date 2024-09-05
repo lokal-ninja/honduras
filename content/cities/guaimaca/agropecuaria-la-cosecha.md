@@ -1,5 +1,5 @@
 ---
 title: "Agropecuaria La Cosecha"
 url: /guaimaca/agropecuaria-la-cosecha/
-shop: granja
+shop: Hofladen
 ---

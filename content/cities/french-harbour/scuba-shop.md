@@ -1,5 +1,5 @@
 ---
 title: "Scuba Shop"
 url: /french-harbour/scuba-shop/
-shop: buceo
+shop: Tauchen
 ---

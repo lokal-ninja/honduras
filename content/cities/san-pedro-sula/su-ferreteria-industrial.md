@@ -1,5 +1,5 @@
 ---
 title: "Su Ferretería Industrial"
 url: /san-pedro-sula/su-ferreteria-industrial/
-shop: hardware
+shop: Eisenwaren
 ---

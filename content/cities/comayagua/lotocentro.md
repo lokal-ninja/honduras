@@ -1,5 +1,5 @@
 ---
 title: "Lotocentro"
 url: /comayagua/lotocentro/
-shop: general
+shop: Allgemein
 ---

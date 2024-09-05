@@ -1,5 +1,5 @@
 ---
 title: "El Dorado"
 url: /tegucigalpa/el-dorado/
-shop: cosméticos
+shop: Kosmetik
 ---

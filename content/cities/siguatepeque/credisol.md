@@ -1,5 +1,5 @@
 ---
 title: "CrediSol"
 url: /siguatepeque/credisol/
-shop: prestamista
+shop: Leiher
 ---

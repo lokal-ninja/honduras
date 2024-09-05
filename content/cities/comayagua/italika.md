@@ -1,5 +1,5 @@
 ---
 title: "Italika"
 url: /comayagua/italika/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alupac Plaza Miraflores"
 url: /tegucigalpa/alupac-plaza-miraflores/
-shop: general
+shop: Allgemein
 ---

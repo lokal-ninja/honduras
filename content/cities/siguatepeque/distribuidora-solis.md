@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Solis"
 url: /siguatepeque/distribuidora-solis/
-shop: general
+shop: Allgemein
 ---

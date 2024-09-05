@@ -1,5 +1,5 @@
 ---
 title: "Elegant"
 url: /tela/elegant/
-shop: ropa
+shop: Kleidung
 ---

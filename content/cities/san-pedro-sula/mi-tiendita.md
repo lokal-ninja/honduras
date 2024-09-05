@@ -1,5 +1,5 @@
 ---
 title: "Mi Tiendita"
 url: /san-pedro-sula/mi-tiendita/
-shop: general
+shop: Allgemein
 ---

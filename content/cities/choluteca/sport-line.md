@@ -1,5 +1,5 @@
 ---
 title: "Sport Line"
 url: /choluteca/sport-line/
-shop: general
+shop: Allgemein
 ---

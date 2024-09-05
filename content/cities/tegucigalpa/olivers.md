@@ -1,5 +1,5 @@
 ---
 title: "Olivers"
 url: /tegucigalpa/olivers/
-shop: ropa
+shop: Kleidung
 ---

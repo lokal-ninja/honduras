@@ -1,5 +1,5 @@
 ---
 title: "Rinau"
 url: /siguatepeque/rinau/
-shop: general
+shop: Allgemein
 ---

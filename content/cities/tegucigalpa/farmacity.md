@@ -1,5 +1,5 @@
 ---
 title: "Farmacity"
 url: /tegucigalpa/farmacity/
-shop: farmacia
+shop: Drogerie
 ---

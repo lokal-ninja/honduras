@@ -1,5 +1,5 @@
 ---
 title: "Bazar Argentina"
 url: /san-pedro-sula/bazar-argentina/
-shop: general
+shop: Allgemein
 ---

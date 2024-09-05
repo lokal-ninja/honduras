@@ -1,5 +1,5 @@
 ---
 title: "Bodega La Sureña"
 url: /tela/bodega-la-surena/
-shop: general
+shop: Allgemein
 ---

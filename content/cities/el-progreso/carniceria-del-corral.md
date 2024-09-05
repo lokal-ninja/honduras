@@ -1,5 +1,5 @@
 ---
 title: "Carniceria del Corral"
 url: /el-progreso/carniceria-del-corral/
-shop: carnicero
+shop: Metzgerei
 ---

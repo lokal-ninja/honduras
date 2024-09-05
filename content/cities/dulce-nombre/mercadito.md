@@ -1,5 +1,5 @@
 ---
 title: "mercadito"
 url: /dulce-nombre/mercadito/
-shop: supermercado
+shop: Supermarkt
 ---
