@@ -1,5 +1,5 @@
 ---
 title: "Solder Seal Gunk"
 url: /el-progreso/solder-seal-gunk/
-shop: Autoteile
+shop: piezas de automóviles
 ---

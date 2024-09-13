@@ -1,5 +1,5 @@
 ---
 title: "Veranda"
 url: /tegucigalpa/veranda/
-shop: Allgemein
+shop: general
 ---

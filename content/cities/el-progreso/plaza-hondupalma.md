@@ -1,5 +1,5 @@
 ---
 title: "Plaza Hondupalma"
 url: /el-progreso/plaza-hondupalma/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

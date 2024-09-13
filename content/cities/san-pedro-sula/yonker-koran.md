@@ -1,5 +1,5 @@
 ---
 title: "Yonker Koran"
 url: /san-pedro-sula/yonker-koran/
-shop: Autoteile
+shop: piezas de automóviles
 ---

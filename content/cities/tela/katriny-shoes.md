@@ -1,5 +1,5 @@
 ---
 title: "Katriny Shoes"
 url: /tela/katriny-shoes/
-shop: Schuhe
+shop: zapatos
 ---

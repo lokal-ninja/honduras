@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes Gulf"
 url: /san-pedro-sula/lubricantes-gulf/
-shop: Autoteile
+shop: piezas de automóviles
 ---

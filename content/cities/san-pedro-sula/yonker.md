@@ -1,5 +1,5 @@
 ---
 title: "Yonker"
 url: /san-pedro-sula/yonker/
-shop: Autoteile
+shop: piezas de automóviles
 ---

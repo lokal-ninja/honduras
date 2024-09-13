@@ -1,5 +1,5 @@
 ---
 title: "Tel Movil"
 url: /tela/tel-movil/
-shop: Handy
+shop: teléfono móvil
 ---

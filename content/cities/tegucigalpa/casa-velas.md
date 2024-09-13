@@ -1,5 +1,5 @@
 ---
 title: "Casa Velas"
 url: /tegucigalpa/casa-velas/
-shop: Allgemein
+shop: general
 ---

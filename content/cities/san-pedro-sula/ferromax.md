@@ -1,5 +1,5 @@
 ---
 title: "Ferromax"
 url: /san-pedro-sula/ferromax/
-shop: Baustoffe
+shop: comercio
 ---

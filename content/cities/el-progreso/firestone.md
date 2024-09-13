@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /el-progreso/firestone/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

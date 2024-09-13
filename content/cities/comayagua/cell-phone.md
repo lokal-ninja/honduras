@@ -1,5 +1,5 @@
 ---
 title: "Cell Phone"
 url: /comayagua/cell-phone/
-shop: Handy
+shop: teléfono móvil
 ---

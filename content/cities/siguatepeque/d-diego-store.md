@@ -1,5 +1,5 @@
 ---
 title: "D' Diego Store"
 url: /siguatepeque/d-diego-store/
-shop: Handy
+shop: teléfono móvil
 ---

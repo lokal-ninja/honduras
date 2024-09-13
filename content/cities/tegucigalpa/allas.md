@@ -1,5 +1,5 @@
 ---
 title: "Allas"
 url: /tegucigalpa/allas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

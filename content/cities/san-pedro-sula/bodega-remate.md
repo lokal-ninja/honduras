@@ -1,5 +1,5 @@
 ---
 title: "Bodega Remate"
 url: /san-pedro-sula/bodega-remate/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mi Casa"
 url: /tela/mi-casa/
-shop: Eisenwaren
+shop: hardware
 ---

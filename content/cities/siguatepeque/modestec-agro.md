@@ -1,5 +1,5 @@
 ---
 title: "Modestec-Agro"
 url: /siguatepeque/modestec-agro/
-shop: Allgemein
+shop: general
 ---

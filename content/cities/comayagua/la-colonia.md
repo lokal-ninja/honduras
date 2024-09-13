@@ -1,5 +1,5 @@
 ---
 title: "La Colonia"
 url: /comayagua/la-colonia/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NG"
 url: /tegucigalpa/ng/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

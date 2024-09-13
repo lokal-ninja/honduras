@@ -1,5 +1,5 @@
 ---
 title: "Xerox"
 url: /tegucigalpa/xerox/
-shop: Allgemein
+shop: general
 ---

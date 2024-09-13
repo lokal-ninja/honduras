@@ -1,5 +1,5 @@
 ---
 title: "Megafamaco"
 url: /comayagua/megafamaco/
-shop: Eisenwaren
+shop: hardware
 ---

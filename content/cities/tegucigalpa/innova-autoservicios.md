@@ -1,5 +1,5 @@
 ---
 title: "INNOVA AUTOSERVICIOS"
 url: /tegucigalpa/innova-autoservicios/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

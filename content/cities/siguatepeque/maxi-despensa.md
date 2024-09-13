@@ -1,5 +1,5 @@
 ---
 title: "Maxi Despensa"
 url: /siguatepeque/maxi-despensa/
-shop: Supermarkt
+shop: supermercado
 ---

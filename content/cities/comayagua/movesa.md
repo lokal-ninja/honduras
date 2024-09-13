@@ -1,5 +1,5 @@
 ---
 title: "Movesa"
 url: /comayagua/movesa/
-shop: Motorrad
+shop: motocicleta
 ---

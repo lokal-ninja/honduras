@@ -1,5 +1,5 @@
 ---
 title: "Marshela"
 url: /tegucigalpa/marshela/
-shop: Allgemein
+shop: general
 ---

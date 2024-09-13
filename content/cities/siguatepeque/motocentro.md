@@ -1,5 +1,5 @@
 ---
 title: "Motocentro"
 url: /siguatepeque/motocentro/
-shop: Autoteile
+shop: piezas de automóviles
 ---

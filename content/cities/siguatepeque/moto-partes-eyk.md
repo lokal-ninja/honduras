@@ -1,5 +1,5 @@
 ---
 title: "Moto Partes Eyk"
 url: /siguatepeque/moto-partes-eyk/
-shop: Autoteile
+shop: piezas de automóviles
 ---

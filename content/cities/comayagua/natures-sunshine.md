@@ -1,5 +1,5 @@
 ---
 title: "Nature's Sunshine"
 url: /comayagua/natures-sunshine/
-shop: Kräuter
+shop: herbolario
 ---

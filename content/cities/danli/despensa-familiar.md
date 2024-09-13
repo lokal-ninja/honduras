@@ -1,5 +1,5 @@
 ---
 title: "Despensa Familiar"
 url: /danli/despensa-familiar/
-shop: Supermarkt
+shop: supermercado
 ---

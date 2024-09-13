@@ -1,5 +1,5 @@
 ---
 title: "Pulpería Jerusalen"
 url: /san-pedro-sula/pulperia-jerusalen/
-shop: Lebensmittel
+shop: comodidad
 ---

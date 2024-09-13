@@ -1,5 +1,5 @@
 ---
 title: "Super Repuestos"
 url: /comayaguela/super-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

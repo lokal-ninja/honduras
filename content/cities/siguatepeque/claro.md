@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /siguatepeque/claro/
-shop: Handy
+shop: teléfono móvil
 ---

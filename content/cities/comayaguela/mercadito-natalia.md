@@ -1,5 +1,5 @@
 ---
 title: "Mercadito Natalia"
 url: /comayaguela/mercadito-natalia/
-shop: Kramladen
+shop: tienda de variedades
 ---

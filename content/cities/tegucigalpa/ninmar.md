@@ -1,5 +1,5 @@
 ---
 title: "Ninmar"
 url: /tegucigalpa/ninmar/
-shop: Allgemein
+shop: general
 ---

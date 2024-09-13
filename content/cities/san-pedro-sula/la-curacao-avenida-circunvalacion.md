@@ -1,5 +1,5 @@
 ---
 title: "La Curacao"
 url: /san-pedro-sula/la-curacao-avenida-circunvalacion/
-shop: Elektronik
+shop: electrónica
 ---

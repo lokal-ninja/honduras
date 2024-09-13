@@ -1,5 +1,5 @@
 ---
 title: "Ropa tienda"
 url: /dulce-nombre/ropa-tienda/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Variedades Victoria"
 url: /siguatepeque/variedades-victoria/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mall Megaplaza"
 url: /la-ceiba/mall-megaplaza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

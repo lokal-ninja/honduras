@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Fercasa"
 url: /siguatepeque/ferreteria-fercasa/
-shop: Eisenwaren
+shop: hardware
 ---

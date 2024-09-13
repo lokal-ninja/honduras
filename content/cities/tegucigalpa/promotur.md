@@ -1,5 +1,5 @@
 ---
 title: "Promotur"
 url: /tegucigalpa/promotur/
-shop: Reisebüro
+shop: agencia de viajes
 ---

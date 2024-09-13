@@ -1,5 +1,5 @@
 ---
 title: "Megapaca"
 url: /tegucigalpa/megapaca/
-shop: Kleidung
+shop: ropa
 ---

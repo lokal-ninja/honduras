@@ -1,5 +1,5 @@
 ---
 title: "Elegant"
 url: /tegucigalpa/elegant/
-shop: Kosmetik
+shop: cosméticos
 ---

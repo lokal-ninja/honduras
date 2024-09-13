@@ -1,5 +1,5 @@
 ---
 title: "Jetsereo"
 url: /el-progreso/jetsereo/
-shop: Reisebüro
+shop: agencia de viajes
 ---

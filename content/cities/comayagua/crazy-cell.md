@@ -1,5 +1,5 @@
 ---
 title: "Crazy Cell"
 url: /comayagua/crazy-cell/
-shop: Handy
+shop: teléfono móvil
 ---

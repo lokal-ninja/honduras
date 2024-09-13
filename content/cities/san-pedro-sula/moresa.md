@@ -1,5 +1,5 @@
 ---
 title: "Moresa"
 url: /san-pedro-sula/moresa/
-shop: Allgemein
+shop: general
 ---

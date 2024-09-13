@@ -1,5 +1,5 @@
 ---
 title: "Central de Baterias"
 url: /san-pedro-sula/central-de-baterias/
-shop: Elektronik
+shop: electrónica
 ---

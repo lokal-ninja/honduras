@@ -1,5 +1,5 @@
 ---
 title: "Glasil Plaza Miraflores"
 url: /tegucigalpa/glasil-plaza-miraflores/
-shop: Allgemein
+shop: general
 ---

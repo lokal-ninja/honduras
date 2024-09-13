@@ -1,5 +1,5 @@
 ---
 title: "Pick OniC"
 url: /el-progreso/pick-onic/
-shop: Kleidung
+shop: ropa
 ---

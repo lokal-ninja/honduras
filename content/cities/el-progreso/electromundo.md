@@ -1,5 +1,5 @@
 ---
 title: "Electromundo"
 url: /el-progreso/electromundo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

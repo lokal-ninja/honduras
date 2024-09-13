@@ -1,5 +1,5 @@
 ---
 title: "Plaza Criolla"
 url: /tegucigalpa/plaza-criolla/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

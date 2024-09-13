@@ -1,5 +1,5 @@
 ---
 title: "Tropical Sweet"
 url: /tela/tropical-sweet/
-shop: Eisprodukte
+shop: helado
 ---

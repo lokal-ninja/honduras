@@ -1,5 +1,5 @@
 ---
 title: "EFI"
 url: /el-progreso/efi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

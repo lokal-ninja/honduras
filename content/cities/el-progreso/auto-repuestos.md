@@ -1,5 +1,5 @@
 ---
 title: "Auto Repuestos"
 url: /el-progreso/auto-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

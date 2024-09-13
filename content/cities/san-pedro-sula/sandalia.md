@@ -1,5 +1,5 @@
 ---
 title: "Sandalia"
 url: /san-pedro-sula/sandalia/
-shop: Allgemein
+shop: general
 ---

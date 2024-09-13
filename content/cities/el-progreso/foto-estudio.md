@@ -1,5 +1,5 @@
 ---
 title: "Foto Estudio"
 url: /el-progreso/foto-estudio/
-shop: Foto
+shop: foto
 ---

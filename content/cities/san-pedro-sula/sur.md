@@ -1,5 +1,5 @@
 ---
 title: "Sur"
 url: /san-pedro-sula/sur/
-shop: Farben
+shop: pintura
 ---

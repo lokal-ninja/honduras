@@ -1,5 +1,5 @@
 ---
 title: "locales comerciales"
 url: /dulce-nombre/locales-comerciales/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

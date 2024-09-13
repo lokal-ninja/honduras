@@ -1,5 +1,5 @@
 ---
 title: "Carpinteria La Cristiana"
 url: /el-progreso/carpinteria-la-cristiana/
-shop: Bestattungen
+shop: directores de funerarias
 ---

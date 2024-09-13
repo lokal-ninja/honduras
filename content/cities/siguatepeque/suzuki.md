@@ -1,5 +1,5 @@
 ---
 title: "Suzuki"
 url: /siguatepeque/suzuki/
-shop: Motorrad
+shop: motocicleta
 ---

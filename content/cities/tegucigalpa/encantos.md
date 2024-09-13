@@ -1,5 +1,5 @@
 ---
 title: "Encantos"
 url: /tegucigalpa/encantos/
-shop: Schmuck
+shop: joyería
 ---

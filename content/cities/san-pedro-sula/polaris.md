@@ -1,5 +1,5 @@
 ---
 title: "Polaris"
 url: /san-pedro-sula/polaris/
-shop: Allgemein
+shop: general
 ---

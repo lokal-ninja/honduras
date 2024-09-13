@@ -1,5 +1,5 @@
 ---
 title: "Aurema"
 url: /san-pedro-sula/aurema/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

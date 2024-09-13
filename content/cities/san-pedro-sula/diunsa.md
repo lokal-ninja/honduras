@@ -1,5 +1,5 @@
 ---
 title: "Diunsa"
 url: /san-pedro-sula/diunsa/
-shop: Kramladen
+shop: tienda de variedades
 ---

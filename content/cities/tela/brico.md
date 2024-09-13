@@ -1,5 +1,5 @@
 ---
 title: "Brico"
 url: /tela/brico/
-shop: Handy
+shop: teléfono móvil
 ---

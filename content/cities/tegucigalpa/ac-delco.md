@@ -1,5 +1,5 @@
 ---
 title: "AC Delco"
 url: /tegucigalpa/ac-delco/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Specchi"
 url: /tegucigalpa/specchi/
-shop: Allgemein
+shop: general
 ---

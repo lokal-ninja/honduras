@@ -1,5 +1,5 @@
 ---
 title: "Depósito Kostas"
 url: /la-ceiba/deposito-kostas/
-shop: Spirituosen
+shop: alcohol
 ---

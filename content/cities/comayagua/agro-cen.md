@@ -1,5 +1,5 @@
 ---
 title: "Agro cen"
 url: /comayagua/agro-cen/
-shop: Allgemein
+shop: general
 ---

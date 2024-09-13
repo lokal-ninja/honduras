@@ -1,5 +1,5 @@
 ---
 title: "plaza centro"
 url: /catacamas/plaza-centro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

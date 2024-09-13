@@ -1,5 +1,5 @@
 ---
 title: "Servitdiesel"
 url: /el-progreso/servitdiesel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

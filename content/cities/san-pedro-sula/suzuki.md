@@ -1,5 +1,5 @@
 ---
 title: "Suzuki"
 url: /san-pedro-sula/suzuki/
-shop: Autoteile
+shop: piezas de automóviles
 ---

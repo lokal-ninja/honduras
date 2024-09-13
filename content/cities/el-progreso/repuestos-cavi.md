@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Cavi"
 url: /el-progreso/repuestos-cavi/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ovesa"
 url: /siguatepeque/ovesa/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "D.D. Rótulos"
 url: /siguatepeque/d-d-rotulos/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Variedades Michelle"
 url: /siguatepeque/variedades-michelle/
-shop: Kramladen
+shop: tienda de variedades
 ---

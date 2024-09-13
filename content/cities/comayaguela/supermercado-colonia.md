@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Colonia"
 url: /comayaguela/supermercado-colonia/
-shop: Supermarkt
+shop: supermercado
 ---

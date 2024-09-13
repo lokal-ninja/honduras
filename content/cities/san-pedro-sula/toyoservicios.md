@@ -1,5 +1,5 @@
 ---
 title: "Toyoservicios"
 url: /san-pedro-sula/toyoservicios/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

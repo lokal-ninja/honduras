@@ -1,5 +1,5 @@
 ---
 title: "Embutidos la Europea"
 url: /tegucigalpa/embutidos-la-europea/
-shop: Metzgerei
+shop: carnicero
 ---

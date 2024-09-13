@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /tegucigalpa/radioshack/
-shop: Elektronik
+shop: electrónica
 ---

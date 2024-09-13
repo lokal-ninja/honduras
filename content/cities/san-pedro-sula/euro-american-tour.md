@@ -1,5 +1,5 @@
 ---
 title: "Euro American Tour"
 url: /san-pedro-sula/euro-american-tour/
-shop: Reisebüro
+shop: agencia de viajes
 ---

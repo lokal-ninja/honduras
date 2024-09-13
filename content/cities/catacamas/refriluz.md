@@ -1,5 +1,5 @@
 ---
 title: "Refriluz"
 url: /catacamas/refriluz/
-shop: Elektrisch
+shop: eléctrico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería kennedy"
 url: /tegucigalpa/ferreteria-kennedy/
-shop: Eisenwaren
+shop: hardware
 ---

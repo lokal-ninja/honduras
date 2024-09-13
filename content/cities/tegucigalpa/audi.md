@@ -1,5 +1,5 @@
 ---
 title: "Audi"
 url: /tegucigalpa/audi/
-shop: Autohaus
+shop: coche
 ---

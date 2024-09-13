@@ -1,5 +1,5 @@
 ---
 title: "York"
 url: /tegucigalpa/york/
-shop: Autoteile
+shop: piezas de automóviles
 ---

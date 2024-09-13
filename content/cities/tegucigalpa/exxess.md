@@ -1,5 +1,5 @@
 ---
 title: "Exxess"
 url: /tegucigalpa/exxess/
-shop: Allgemein
+shop: general
 ---

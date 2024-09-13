@@ -1,5 +1,5 @@
 ---
 title: "Tornifesa"
 url: /san-pedro-sula/tornifesa/
-shop: Eisenwaren
+shop: hardware
 ---

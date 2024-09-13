@@ -1,5 +1,5 @@
 ---
 title: "Foto Dennis"
 url: /la-ceiba/foto-dennis/
-shop: Foto
+shop: foto
 ---

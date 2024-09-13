@@ -1,5 +1,5 @@
 ---
 title: "La Mundial"
 url: /san-pedro-sula/la-mundial/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

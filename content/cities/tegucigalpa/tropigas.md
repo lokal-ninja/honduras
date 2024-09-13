@@ -1,5 +1,5 @@
 ---
 title: "Tropigas"
 url: /tegucigalpa/tropigas/
-shop: Allgemein
+shop: general
 ---

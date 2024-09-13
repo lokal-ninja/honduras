@@ -1,5 +1,5 @@
 ---
 title: "Movesa"
 url: /el-progreso/movesa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

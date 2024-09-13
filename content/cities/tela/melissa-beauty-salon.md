@@ -1,5 +1,5 @@
 ---
 title: "Melissa Beauty Salón"
 url: /tela/melissa-beauty-salon/
-shop: Friseur
+shop: peluquería
 ---

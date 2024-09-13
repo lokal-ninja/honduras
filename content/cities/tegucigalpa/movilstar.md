@@ -1,5 +1,5 @@
 ---
 title: "Movilstar"
 url: /tegucigalpa/movilstar/
-shop: Allgemein
+shop: general
 ---

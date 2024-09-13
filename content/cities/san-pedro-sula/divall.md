@@ -1,5 +1,5 @@
 ---
 title: "Divall"
 url: /san-pedro-sula/divall/
-shop: Allgemein
+shop: general
 ---

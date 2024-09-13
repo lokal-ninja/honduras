@@ -1,5 +1,5 @@
 ---
 title: "Deriva"
 url: /tegucigalpa/deriva/
-shop: Allgemein
+shop: general
 ---

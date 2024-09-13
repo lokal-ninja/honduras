@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /el-progreso/food-mart/
-shop: Lebensmittel
+shop: comodidad
 ---

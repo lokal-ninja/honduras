@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Paty"
 url: /san-pedro-sula/distribuidora-paty/
-shop: Kleidung
+shop: ropa
 ---

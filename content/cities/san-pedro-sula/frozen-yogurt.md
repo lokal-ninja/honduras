@@ -1,5 +1,5 @@
 ---
 title: "Frozen Yogurt"
 url: /san-pedro-sula/frozen-yogurt/
-shop: Allgemein
+shop: general
 ---

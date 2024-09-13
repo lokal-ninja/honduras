@@ -1,5 +1,5 @@
 ---
 title: "Lady Lee"
 url: /tegucigalpa/lady-lee/
-shop: Lebensmittel
+shop: comodidad
 ---

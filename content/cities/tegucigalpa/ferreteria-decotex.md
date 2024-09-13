@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Decotex"
 url: /tegucigalpa/ferreteria-decotex/
-shop: Eisenwaren
+shop: hardware
 ---

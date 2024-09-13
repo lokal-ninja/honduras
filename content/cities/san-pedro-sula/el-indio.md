@@ -1,5 +1,5 @@
 ---
 title: "El Indio"
 url: /san-pedro-sula/el-indio/
-shop: Allgemein
+shop: general
 ---

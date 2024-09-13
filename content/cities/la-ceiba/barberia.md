@@ -1,5 +1,5 @@
 ---
 title: "Barbería"
 url: /la-ceiba/barberia/
-shop: Friseur
+shop: peluquería
 ---

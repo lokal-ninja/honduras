@@ -1,5 +1,5 @@
 ---
 title: "Bijoux Terner"
 url: /tegucigalpa/bijoux-terner/
-shop: Kleidung
+shop: ropa
 ---

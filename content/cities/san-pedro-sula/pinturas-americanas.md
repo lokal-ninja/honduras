@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Americanas"
 url: /san-pedro-sula/pinturas-americanas/
-shop: Farben
+shop: pintura
 ---

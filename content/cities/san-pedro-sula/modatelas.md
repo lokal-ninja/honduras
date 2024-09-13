@@ -1,5 +1,5 @@
 ---
 title: "Modatelas"
 url: /san-pedro-sula/modatelas/
-shop: Nähzubehör
+shop: coser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unimall Choluteca"
 url: /choluteca/unimall-choluteca/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

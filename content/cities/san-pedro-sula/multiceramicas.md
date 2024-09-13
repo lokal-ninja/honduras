@@ -1,5 +1,5 @@
 ---
 title: "Multicerámicas"
 url: /san-pedro-sula/multiceramicas/
-shop: Fliesen
+shop: baldosas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multiganga"
 url: /san-pedro-sula/multiganga/
-shop: Allgemein
+shop: general
 ---

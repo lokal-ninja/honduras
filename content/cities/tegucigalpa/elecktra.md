@@ -1,5 +1,5 @@
 ---
 title: "ELECKTRA"
 url: /tegucigalpa/elecktra/
-shop: Allgemein
+shop: general
 ---

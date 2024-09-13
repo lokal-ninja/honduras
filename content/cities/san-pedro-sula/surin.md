@@ -1,5 +1,5 @@
 ---
 title: "Surin"
 url: /san-pedro-sula/surin/
-shop: Autoteile
+shop: piezas de automóviles
 ---

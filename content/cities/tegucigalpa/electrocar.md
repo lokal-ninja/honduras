@@ -1,5 +1,5 @@
 ---
 title: "Electrocar"
 url: /tegucigalpa/electrocar/
-shop: Allgemein
+shop: general
 ---

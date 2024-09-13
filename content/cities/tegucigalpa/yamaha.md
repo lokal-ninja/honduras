@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /tegucigalpa/yamaha/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Business"
 url: /san-pedro-sula/business/
-shop: Reisebüro
+shop: agencia de viajes
 ---

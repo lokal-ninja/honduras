@@ -1,5 +1,5 @@
 ---
 title: "Cofema"
 url: /comayagua/cofema/
-shop: Eisenwaren
+shop: hardware
 ---

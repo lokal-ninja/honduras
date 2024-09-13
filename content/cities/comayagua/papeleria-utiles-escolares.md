@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Utiles Escolares"
 url: /comayagua/papeleria-utiles-escolares/
-shop: Schreibwaren
+shop: material de oficina
 ---

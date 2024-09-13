@@ -1,5 +1,5 @@
 ---
 title: "Servicentro Barandillas"
 url: /san-pedro-sula/servicentro-barandillas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

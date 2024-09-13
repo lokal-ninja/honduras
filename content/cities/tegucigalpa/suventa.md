@@ -1,5 +1,5 @@
 ---
 title: "Suventa"
 url: /tegucigalpa/suventa/
-shop: Möbel
+shop: muebles
 ---

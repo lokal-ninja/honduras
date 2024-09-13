@@ -1,5 +1,5 @@
 ---
 title: "Eclipse"
 url: /tegucigalpa/eclipse/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

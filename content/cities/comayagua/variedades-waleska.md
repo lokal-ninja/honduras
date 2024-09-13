@@ -1,5 +1,5 @@
 ---
 title: "Variedades Waleska"
 url: /comayagua/variedades-waleska/
-shop: Kramladen
+shop: tienda de variedades
 ---

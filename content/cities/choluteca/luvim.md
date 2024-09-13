@@ -1,5 +1,5 @@
 ---
 title: "Luvim"
 url: /choluteca/luvim/
-shop: Eisenwaren
+shop: hardware
 ---

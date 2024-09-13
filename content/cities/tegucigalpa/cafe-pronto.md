@@ -1,5 +1,5 @@
 ---
 title: "Café Pronto"
 url: /tegucigalpa/cafe-pronto/
-shop: Lebensmittel
+shop: comodidad
 ---

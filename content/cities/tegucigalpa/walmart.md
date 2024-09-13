@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /tegucigalpa/walmart/
-shop: Warenhaus
+shop: grandes almacenes
 ---

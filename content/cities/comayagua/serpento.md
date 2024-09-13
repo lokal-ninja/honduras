@@ -1,5 +1,5 @@
 ---
 title: "Serpento"
 url: /comayagua/serpento/
-shop: Motorrad
+shop: motocicleta
 ---

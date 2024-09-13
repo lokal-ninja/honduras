@@ -1,5 +1,5 @@
 ---
 title: "Sur"
 url: /siguatepeque/sur/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bomohsa"
 url: /tegucigalpa/bomohsa/
-shop: Allgemein
+shop: general
 ---

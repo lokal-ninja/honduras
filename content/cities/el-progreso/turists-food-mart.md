@@ -1,5 +1,5 @@
 ---
 title: "Turist's Food Mart"
 url: /el-progreso/turists-food-mart/
-shop: Supermarkt
+shop: supermercado
 ---

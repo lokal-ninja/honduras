@@ -1,5 +1,5 @@
 ---
 title: "Electro Llantas"
 url: /san-pedro-sula/electro-llantas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roxi"
 url: /choluteca/roxi/
-shop: Kosmetik
+shop: cosméticos
 ---

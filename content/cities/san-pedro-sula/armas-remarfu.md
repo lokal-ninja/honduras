@@ -1,5 +1,5 @@
 ---
 title: "Armas Remarfu"
 url: /san-pedro-sula/armas-remarfu/
-shop: Waffen
+shop: armas
 ---

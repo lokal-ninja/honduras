@@ -1,5 +1,5 @@
 ---
 title: "Carniceria Esperanza"
 url: /siguatepeque/carniceria-esperanza/
-shop: Metzgerei
+shop: carnicero
 ---

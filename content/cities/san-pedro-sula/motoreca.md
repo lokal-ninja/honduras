@@ -1,5 +1,5 @@
 ---
 title: "Motoreca"
 url: /san-pedro-sula/motoreca/
-shop: Allgemein
+shop: general
 ---

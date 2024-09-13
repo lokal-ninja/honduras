@@ -1,5 +1,5 @@
 ---
 title: "Jetstereo"
 url: /tegucigalpa/jetstereo/
-shop: Elektronik
+shop: electrónica
 ---

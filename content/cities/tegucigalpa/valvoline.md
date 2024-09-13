@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /tegucigalpa/valvoline/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

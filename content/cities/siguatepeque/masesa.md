@@ -1,5 +1,5 @@
 ---
 title: "Masesa"
 url: /siguatepeque/masesa/
-shop: Motorrad
+shop: motocicleta
 ---

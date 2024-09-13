@@ -1,5 +1,5 @@
 ---
 title: "Pinten"
 url: /tegucigalpa/pinten/
-shop: Allgemein
+shop: general
 ---

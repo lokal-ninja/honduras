@@ -1,5 +1,5 @@
 ---
 title: "Star Mart"
 url: /tegucigalpa/star-mart/
-shop: Lebensmittel
+shop: comodidad
 ---

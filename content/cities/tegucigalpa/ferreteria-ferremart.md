@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Ferremart"
 url: /tegucigalpa/ferreteria-ferremart/
-shop: Eisenwaren
+shop: hardware
 ---

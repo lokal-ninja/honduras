@@ -1,5 +1,5 @@
 ---
 title: "Variedades Rosy"
 url: /siguatepeque/variedades-rosy/
-shop: Kramladen
+shop: tienda de variedades
 ---

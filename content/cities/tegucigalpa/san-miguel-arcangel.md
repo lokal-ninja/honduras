@@ -1,5 +1,5 @@
 ---
 title: "San Miguel Arcangel"
 url: /tegucigalpa/san-miguel-arcangel/
-shop: Bestattungen
+shop: directores de funerarias
 ---

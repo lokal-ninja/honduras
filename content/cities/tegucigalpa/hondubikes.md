@@ -1,5 +1,5 @@
 ---
 title: "Hondubikes"
 url: /tegucigalpa/hondubikes/
-shop: Fahrrad
+shop: bicicleta
 ---

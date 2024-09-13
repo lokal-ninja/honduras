@@ -1,5 +1,5 @@
 ---
 title: "Servifiesta"
 url: /el-progreso/servifiesta/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

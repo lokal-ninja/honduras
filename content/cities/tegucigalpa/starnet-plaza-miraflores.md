@@ -1,5 +1,5 @@
 ---
 title: "Starnet Plaza Miraflores"
 url: /tegucigalpa/starnet-plaza-miraflores/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ovesa"
 url: /san-pedro-sula/ovesa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

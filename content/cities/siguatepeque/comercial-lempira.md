@@ -1,5 +1,5 @@
 ---
 title: "Comercial Lempira"
 url: /siguatepeque/comercial-lempira/
-shop: Allgemein
+shop: general
 ---

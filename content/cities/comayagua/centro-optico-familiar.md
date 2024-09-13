@@ -1,5 +1,5 @@
 ---
 title: "Centro Óptico Familiar"
 url: /comayagua/centro-optico-familiar/
-shop: Optiker
+shop: óptico
 ---

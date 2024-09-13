@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /tegucigalpa/office-depot/
-shop: Schreibwaren
+shop: material de oficina
 ---

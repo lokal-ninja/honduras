@@ -1,5 +1,5 @@
 ---
 title: "Cortitelas"
 url: /tegucigalpa/cortitelas/
-shop: Allgemein
+shop: general
 ---

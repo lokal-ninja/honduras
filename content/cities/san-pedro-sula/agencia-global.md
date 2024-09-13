@@ -1,5 +1,5 @@
 ---
 title: "Agencia Global"
 url: /san-pedro-sula/agencia-global/
-shop: Allgemein
+shop: general
 ---

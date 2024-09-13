@@ -1,5 +1,5 @@
 ---
 title: "Barbería Olimpia"
 url: /el-progreso/barberia-olimpia/
-shop: Friseur
+shop: peluquería
 ---

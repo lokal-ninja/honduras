@@ -1,5 +1,5 @@
 ---
 title: "DUNLOP"
 url: /choluteca/dunlop/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

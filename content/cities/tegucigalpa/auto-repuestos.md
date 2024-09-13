@@ -1,5 +1,5 @@
 ---
 title: "Auto Repuestos"
 url: /tegucigalpa/auto-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

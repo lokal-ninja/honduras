@@ -1,5 +1,5 @@
 ---
 title: "Cell Partes"
 url: /san-pedro-sula/cell-partes/
-shop: Handy
+shop: teléfono móvil
 ---

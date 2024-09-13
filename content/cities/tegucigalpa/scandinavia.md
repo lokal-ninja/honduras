@@ -1,5 +1,5 @@
 ---
 title: "Scandinavia"
 url: /tegucigalpa/scandinavia/
-shop: Autohaus
+shop: coche
 ---

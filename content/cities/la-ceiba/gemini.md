@@ -1,5 +1,5 @@
 ---
 title: "Gemini"
 url: /la-ceiba/gemini/
-shop: Kleidung
+shop: ropa
 ---

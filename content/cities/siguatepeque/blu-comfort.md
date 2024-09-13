@@ -1,5 +1,5 @@
 ---
 title: "Blu Comfort"
 url: /siguatepeque/blu-comfort/
-shop: Allgemein
+shop: general
 ---

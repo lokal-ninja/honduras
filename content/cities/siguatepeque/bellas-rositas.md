@@ -1,5 +1,5 @@
 ---
 title: "Bellas Rositas"
 url: /siguatepeque/bellas-rositas/
-shop: Kleidung
+shop: ropa
 ---

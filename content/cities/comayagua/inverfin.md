@@ -1,5 +1,5 @@
 ---
 title: "Inverfin"
 url: /comayagua/inverfin/
-shop: Leiher
+shop: prestamista
 ---

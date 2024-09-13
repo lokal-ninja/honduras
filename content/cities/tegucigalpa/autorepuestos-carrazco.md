@@ -1,5 +1,5 @@
 ---
 title: "Autorepuestos Carrazco"
 url: /tegucigalpa/autorepuestos-carrazco/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Partes Refisa"
 url: /san-pedro-sula/partes-refisa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

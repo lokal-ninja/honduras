@@ -1,5 +1,5 @@
 ---
 title: "Autoser"
 url: /san-pedro-sula/autoser/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

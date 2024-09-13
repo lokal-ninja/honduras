@@ -1,5 +1,5 @@
 ---
 title: "Monkey's Beach"
 url: /tela/monkeys-beach/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pintacasa"
 url: /la-ceiba/pintacasa/
-shop: Farben
+shop: pintura
 ---

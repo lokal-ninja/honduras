@@ -1,5 +1,5 @@
 ---
 title: "Uniplaza"
 url: /juticalpa/uniplaza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biciclos"
 url: /la-ceiba/biciclos/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

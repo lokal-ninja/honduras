@@ -1,5 +1,5 @@
 ---
 title: "Soluz"
 url: /san-pedro-sula/soluz/
-shop: Allgemein
+shop: general
 ---

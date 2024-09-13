@@ -1,5 +1,5 @@
 ---
 title: "Arcoiris"
 url: /tela/arcoiris/
-shop: Foto
+shop: foto
 ---

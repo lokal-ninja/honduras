@@ -1,5 +1,5 @@
 ---
 title: "Variedades Inmaculado Corazón de María"
 url: /comayagua/variedades-inmaculado-corazon-de-maria/
-shop: Kramladen
+shop: tienda de variedades
 ---

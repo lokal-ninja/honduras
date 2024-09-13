@@ -1,5 +1,5 @@
 ---
 title: "Nippo Auto"
 url: /san-pedro-sula/nippo-auto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

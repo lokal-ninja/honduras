@@ -1,5 +1,5 @@
 ---
 title: "TorniPernos Junior"
 url: /san-pedro-sula/tornipernos-junior/
-shop: Eisenwaren
+shop: hardware
 ---

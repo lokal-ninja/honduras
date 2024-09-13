@@ -1,5 +1,5 @@
 ---
 title: "La Colonia"
 url: /tegucigalpa/la-colonia/
-shop: Supermarkt
+shop: supermercado
 ---

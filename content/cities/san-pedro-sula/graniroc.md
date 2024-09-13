@@ -1,5 +1,5 @@
 ---
 title: "Graniroc"
 url: /san-pedro-sula/graniroc/
-shop: Raumausstattung
+shop: decoración interior
 ---

@@ -1,5 +1,5 @@
 ---
 title: "cantina roberto"
 url: /comayaguela/cantina-roberto/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Central de Mangueras"
 url: /el-progreso/central-de-mangueras/
-shop: Allgemein
+shop: general
 ---

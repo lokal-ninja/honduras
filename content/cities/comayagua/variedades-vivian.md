@@ -1,5 +1,5 @@
 ---
 title: "Variedades Vivian"
 url: /comayagua/variedades-vivian/
-shop: Kramladen
+shop: tienda de variedades
 ---

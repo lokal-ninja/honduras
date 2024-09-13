@@ -1,5 +1,5 @@
 ---
 title: "Angel"
 url: /siguatepeque/angel/
-shop: Allgemein
+shop: general
 ---

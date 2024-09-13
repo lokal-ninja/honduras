@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Lafe"
 url: /el-progreso/funeraria-lafe/
-shop: Bestattungen
+shop: directores de funerarias
 ---

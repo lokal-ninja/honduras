@@ -1,5 +1,5 @@
 ---
 title: "Novedades Teo"
 url: /san-pedro-sula/novedades-teo/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corona"
 url: /comayagua/corona/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oficmarh"
 url: /san-pedro-sula/oficmarh/
-shop: Allgemein
+shop: general
 ---

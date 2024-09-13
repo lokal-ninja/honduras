@@ -1,5 +1,5 @@
 ---
 title: "Variedades USA"
 url: /siguatepeque/variedades-usa/
-shop: Kramladen
+shop: tienda de variedades
 ---

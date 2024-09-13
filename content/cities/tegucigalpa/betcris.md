@@ -1,5 +1,5 @@
 ---
 title: "Betcris"
 url: /tegucigalpa/betcris/
-shop: Allgemein
+shop: general
 ---

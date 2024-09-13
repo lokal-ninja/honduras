@@ -1,5 +1,5 @@
 ---
 title: "Proim"
 url: /siguatepeque/proim/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Funeraria la Auxiliadora"
 url: /tegucigalpa/funeraria-la-auxiliadora/
-shop: Bestattungen
+shop: directores de funerarias
 ---

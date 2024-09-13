@@ -1,5 +1,5 @@
 ---
 title: "Solutec"
 url: /tela/solutec/
-shop: Computer
+shop: ordenador
 ---

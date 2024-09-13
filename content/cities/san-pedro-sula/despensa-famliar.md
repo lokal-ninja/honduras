@@ -1,5 +1,5 @@
 ---
 title: "Despensa famliar"
 url: /san-pedro-sula/despensa-famliar/
-shop: Supermarkt
+shop: supermercado
 ---

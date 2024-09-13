@@ -1,5 +1,5 @@
 ---
 title: "Yonker Inter Car"
 url: /tegucigalpa/yonker-inter-car/
-shop: Autoteile
+shop: piezas de automóviles
 ---

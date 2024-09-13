@@ -1,5 +1,5 @@
 ---
 title: "Preciosas Plaza Miraflores"
 url: /tegucigalpa/preciosas-plaza-miraflores/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chain"
 url: /tegucigalpa/chain/
-shop: Autoteile
+shop: piezas de automóviles
 ---

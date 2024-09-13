@@ -1,5 +1,5 @@
 ---
 title: "System Mart"
 url: /tegucigalpa/system-mart/
-shop: Computer
+shop: ordenador
 ---

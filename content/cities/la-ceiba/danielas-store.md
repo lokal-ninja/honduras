@@ -1,5 +1,5 @@
 ---
 title: "Daniela's Store"
 url: /la-ceiba/danielas-store/
-shop: Kleidung
+shop: ropa
 ---

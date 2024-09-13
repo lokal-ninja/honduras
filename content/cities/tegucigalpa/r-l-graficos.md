@@ -1,5 +1,5 @@
 ---
 title: "R.L. Graficos"
 url: /tegucigalpa/r-l-graficos/
-shop: Kopieren
+shop: copyshop
 ---

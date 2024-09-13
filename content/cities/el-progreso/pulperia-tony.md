@@ -1,5 +1,5 @@
 ---
 title: "Pulpería Tony"
 url: /el-progreso/pulperia-tony/
-shop: Lebensmittel
+shop: comodidad
 ---

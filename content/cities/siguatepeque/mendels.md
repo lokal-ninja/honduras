@@ -1,5 +1,5 @@
 ---
 title: "Mendels"
 url: /siguatepeque/mendels/
-shop: Warenhaus
+shop: grandes almacenes
 ---

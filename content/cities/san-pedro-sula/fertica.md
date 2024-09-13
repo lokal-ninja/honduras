@@ -1,5 +1,5 @@
 ---
 title: "Fertica"
 url: /san-pedro-sula/fertica/
-shop: Allgemein
+shop: general
 ---

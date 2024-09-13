@@ -1,5 +1,5 @@
 ---
 title: "Secret"
 url: /la-ceiba/secret/
-shop: Kleidung
+shop: ropa
 ---

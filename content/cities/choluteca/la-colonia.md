@@ -1,5 +1,5 @@
 ---
 title: "La Colonia"
 url: /choluteca/la-colonia/
-shop: Supermarkt
+shop: supermercado
 ---

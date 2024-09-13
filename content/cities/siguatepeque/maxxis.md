@@ -1,5 +1,5 @@
 ---
 title: "Maxxis"
 url: /siguatepeque/maxxis/
-shop: Reifen
+shop: neumáticos
 ---

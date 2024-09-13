@@ -1,5 +1,5 @@
 ---
 title: "Motorepuestos DK"
 url: /san-pedro-sula/motorepuestos-dk/
-shop: Autoteile
+shop: piezas de automóviles
 ---

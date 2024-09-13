@@ -1,5 +1,5 @@
 ---
 title: "Distelco"
 url: /comayagua/distelco/
-shop: Handy
+shop: teléfono móvil
 ---

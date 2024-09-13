@@ -1,5 +1,5 @@
 ---
 title: "Barbería Roger"
 url: /pueblo-nuevo/barberia-roger/
-shop: Friseur
+shop: peluquería
 ---

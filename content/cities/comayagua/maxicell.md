@@ -1,5 +1,5 @@
 ---
 title: "Maxicell"
 url: /comayagua/maxicell/
-shop: Handy
+shop: teléfono móvil
 ---

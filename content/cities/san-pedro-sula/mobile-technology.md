@@ -1,5 +1,5 @@
 ---
 title: "Mobile Technology"
 url: /san-pedro-sula/mobile-technology/
-shop: Handy
+shop: teléfono móvil
 ---

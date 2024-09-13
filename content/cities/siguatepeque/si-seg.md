@@ -1,5 +1,5 @@
 ---
 title: "Si-Seg"
 url: /siguatepeque/si-seg/
-shop: Allgemein
+shop: general
 ---

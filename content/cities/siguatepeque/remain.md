@@ -1,5 +1,5 @@
 ---
 title: "Remain"
 url: /siguatepeque/remain/
-shop: Autoteile
+shop: piezas de automóviles
 ---

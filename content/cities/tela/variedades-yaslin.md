@@ -1,5 +1,5 @@
 ---
 title: "Variedades Yaslin"
 url: /tela/variedades-yaslin/
-shop: Kramladen
+shop: tienda de variedades
 ---

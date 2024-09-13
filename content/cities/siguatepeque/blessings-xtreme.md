@@ -1,5 +1,5 @@
 ---
 title: "Blessings Xtreme"
 url: /siguatepeque/blessings-xtreme/
-shop: Allgemein
+shop: general
 ---

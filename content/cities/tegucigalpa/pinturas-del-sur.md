@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Del Sur"
 url: /tegucigalpa/pinturas-del-sur/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tiendas Carrion"
 url: /tegucigalpa/tiendas-carrion/
-shop: Kramladen
+shop: tienda de variedades
 ---

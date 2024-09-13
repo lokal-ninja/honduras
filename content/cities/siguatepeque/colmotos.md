@@ -1,5 +1,5 @@
 ---
 title: "Colmotos"
 url: /siguatepeque/colmotos/
-shop: Allgemein
+shop: general
 ---

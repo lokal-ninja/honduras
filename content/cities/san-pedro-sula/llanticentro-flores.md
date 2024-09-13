@@ -1,5 +1,5 @@
 ---
 title: "Llanticentro Flores"
 url: /san-pedro-sula/llanticentro-flores/
-shop: Autoteile
+shop: piezas de automóviles
 ---

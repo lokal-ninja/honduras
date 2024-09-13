@@ -1,5 +1,5 @@
 ---
 title: "Temeca"
 url: /tegucigalpa/temeca/
-shop: Allgemein
+shop: general
 ---

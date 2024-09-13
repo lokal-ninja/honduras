@@ -1,5 +1,5 @@
 ---
 title: "Comar"
 url: /tela/comar/
-shop: Allgemein
+shop: general
 ---

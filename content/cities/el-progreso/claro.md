@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /el-progreso/claro/
-shop: Handy
+shop: teléfono móvil
 ---

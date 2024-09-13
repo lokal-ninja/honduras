@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Coersa"
 url: /el-progreso/ferreteria-coersa/
-shop: Eisenwaren
+shop: hardware
 ---

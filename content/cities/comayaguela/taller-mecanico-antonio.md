@@ -1,5 +1,5 @@
 ---
 title: "taller mecanico antonio"
 url: /comayaguela/taller-mecanico-antonio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

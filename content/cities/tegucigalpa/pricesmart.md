@@ -1,5 +1,5 @@
 ---
 title: "PriceSmart"
 url: /tegucigalpa/pricesmart/
-shop: Großhandel
+shop: mayorista
 ---

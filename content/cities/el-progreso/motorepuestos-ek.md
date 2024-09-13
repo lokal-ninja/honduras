@@ -1,5 +1,5 @@
 ---
 title: "Motorepuestos EK"
 url: /el-progreso/motorepuestos-ek/
-shop: Autoteile
+shop: piezas de automóviles
 ---

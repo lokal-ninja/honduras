@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio ENESA"
 url: /san-pedro-sula/autoservicio-enesa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

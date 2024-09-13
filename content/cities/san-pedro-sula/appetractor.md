@@ -1,5 +1,5 @@
 ---
 title: "Appetractor"
 url: /san-pedro-sula/appetractor/
-shop: Allgemein
+shop: general
 ---

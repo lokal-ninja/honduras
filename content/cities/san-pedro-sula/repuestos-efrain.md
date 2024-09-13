@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Efrain"
 url: /san-pedro-sula/repuestos-efrain/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plaza Dallas"
 url: /san-pedro-sula/plaza-dallas/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

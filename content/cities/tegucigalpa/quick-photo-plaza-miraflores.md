@@ -1,5 +1,5 @@
 ---
 title: "Quick Photo Plaza Miraflores"
 url: /tegucigalpa/quick-photo-plaza-miraflores/
-shop: Allgemein
+shop: general
 ---

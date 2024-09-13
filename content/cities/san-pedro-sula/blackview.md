@@ -1,5 +1,5 @@
 ---
 title: "Blackview"
 url: /san-pedro-sula/blackview/
-shop: Allgemein
+shop: general
 ---

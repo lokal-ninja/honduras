@@ -1,5 +1,5 @@
 ---
 title: "CRM"
 url: /san-pedro-sula/crm/
-shop: Autoteile
+shop: piezas de automóviles
 ---

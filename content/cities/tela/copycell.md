@@ -1,5 +1,5 @@
 ---
 title: "Copycell"
 url: /tela/copycell/
-shop: Handy
+shop: teléfono móvil
 ---

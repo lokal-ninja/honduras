@@ -1,5 +1,5 @@
 ---
 title: "Cemcol"
 url: /san-pedro-sula/cemcol/
-shop: Autoteile
+shop: piezas de automóviles
 ---

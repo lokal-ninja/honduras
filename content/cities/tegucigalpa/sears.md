@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /tegucigalpa/sears/
-shop: Kramladen
+shop: tienda de variedades
 ---

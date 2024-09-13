@@ -1,5 +1,5 @@
 ---
 title: "Cortitelas"
 url: /la-ceiba/cortitelas/
-shop: Textil
+shop: tela
 ---

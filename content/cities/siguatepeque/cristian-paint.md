@@ -1,5 +1,5 @@
 ---
 title: "Cristian Paint"
 url: /siguatepeque/cristian-paint/
-shop: Farben
+shop: pintura
 ---

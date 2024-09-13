@@ -1,5 +1,5 @@
 ---
 title: "Pronto"
 url: /san-pedro-sula/pronto/
-shop: Allgemein
+shop: general
 ---

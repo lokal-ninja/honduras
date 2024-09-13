@@ -1,5 +1,5 @@
 ---
 title: "The Place"
 url: /tegucigalpa/the-place/
-shop: Allgemein
+shop: general
 ---

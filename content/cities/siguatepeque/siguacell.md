@@ -1,5 +1,5 @@
 ---
 title: "Siguacell"
 url: /siguatepeque/siguacell/
-shop: Handy
+shop: teléfono móvil
 ---

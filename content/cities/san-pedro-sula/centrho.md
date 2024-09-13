@@ -1,5 +1,5 @@
 ---
 title: "Centrho"
 url: /san-pedro-sula/centrho/
-shop: Autoteile
+shop: piezas de automóviles
 ---

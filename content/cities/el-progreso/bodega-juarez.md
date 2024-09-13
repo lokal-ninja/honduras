@@ -1,5 +1,5 @@
 ---
 title: "Bodega Juarez"
 url: /el-progreso/bodega-juarez/
-shop: Lebensmittel
+shop: comodidad
 ---

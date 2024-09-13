@@ -1,5 +1,5 @@
 ---
 title: "Hot Fashion"
 url: /siguatepeque/hot-fashion/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multivariedades Moreira"
 url: /siguatepeque/multivariedades-moreira/
-shop: Kramladen
+shop: tienda de variedades
 ---

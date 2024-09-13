@@ -1,5 +1,5 @@
 ---
 title: "Automania"
 url: /san-pedro-sula/automania/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dimsa"
 url: /siguatepeque/dimsa/
-shop: Allgemein
+shop: general
 ---

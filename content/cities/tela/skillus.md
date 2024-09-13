@@ -1,5 +1,5 @@
 ---
 title: "Skillus"
 url: /tela/skillus/
-shop: Allgemein
+shop: general
 ---

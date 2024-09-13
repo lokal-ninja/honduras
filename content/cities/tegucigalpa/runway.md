@@ -1,5 +1,5 @@
 ---
 title: "Runway"
 url: /tegucigalpa/runway/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Italika"
 url: /san-pedro-sula/repuestos-italika/
-shop: Autoteile
+shop: piezas de automóviles
 ---

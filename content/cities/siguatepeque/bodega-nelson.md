@@ -1,5 +1,5 @@
 ---
 title: "Bodega Nelson"
 url: /siguatepeque/bodega-nelson/
-shop: Allgemein
+shop: general
 ---

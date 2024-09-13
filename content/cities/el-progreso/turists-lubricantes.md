@@ -1,5 +1,5 @@
 ---
 title: "Turist's Lubricantes"
 url: /el-progreso/turists-lubricantes/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

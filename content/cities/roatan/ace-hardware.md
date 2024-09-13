@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /roatan/ace-hardware/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

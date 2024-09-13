@@ -1,5 +1,5 @@
 ---
 title: "Agropecuaria Agromart"
 url: /el-progreso/agropecuaria-agromart/
-shop: Landwirtschaftlich
+shop: agraria
 ---

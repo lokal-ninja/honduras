@@ -1,5 +1,5 @@
 ---
 title: "La Sabrosa"
 url: /la-ceiba/la-sabrosa/
-shop: Konditorei
+shop: pastelería
 ---

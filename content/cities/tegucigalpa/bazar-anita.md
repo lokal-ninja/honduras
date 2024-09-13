@@ -1,5 +1,5 @@
 ---
 title: "Bazar Anita"
 url: /tegucigalpa/bazar-anita/
-shop: Kleidung
+shop: ropa
 ---

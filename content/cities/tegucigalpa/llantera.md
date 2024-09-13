@@ -1,5 +1,5 @@
 ---
 title: "Llantera"
 url: /tegucigalpa/llantera/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ilusión"
 url: /san-pedro-sula/ilusion/
-shop: Allgemein
+shop: general
 ---

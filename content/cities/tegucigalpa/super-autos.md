@@ -1,5 +1,5 @@
 ---
 title: "Super Autos"
 url: /tegucigalpa/super-autos/
-shop: Autohaus
+shop: coche
 ---

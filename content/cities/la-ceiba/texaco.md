@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /la-ceiba/texaco/
-shop: Allgemein
+shop: general
 ---

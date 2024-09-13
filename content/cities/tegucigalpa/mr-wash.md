@@ -1,5 +1,5 @@
 ---
 title: "Mr. Wash"
 url: /tegucigalpa/mr-wash/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

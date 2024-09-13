@@ -1,5 +1,5 @@
 ---
 title: "Joyería Encantos"
 url: /tegucigalpa/joyeria-encantos/
-shop: Allgemein
+shop: general
 ---

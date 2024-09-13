@@ -1,5 +1,5 @@
 ---
 title: "Bossa Moda"
 url: /tegucigalpa/bossa-moda/
-shop: Modehaus
+shop: tienda
 ---

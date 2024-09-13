@@ -1,5 +1,5 @@
 ---
 title: "Movil Center"
 url: /tela/movil-center/
-shop: Handy
+shop: teléfono móvil
 ---

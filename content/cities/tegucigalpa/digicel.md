@@ -1,5 +1,5 @@
 ---
 title: "Digicel"
 url: /tegucigalpa/digicel/
-shop: Handy
+shop: teléfono móvil
 ---

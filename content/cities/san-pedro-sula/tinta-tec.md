@@ -1,5 +1,5 @@
 ---
 title: "Tinta Tec"
 url: /san-pedro-sula/tinta-tec/
-shop: Allgemein
+shop: general
 ---

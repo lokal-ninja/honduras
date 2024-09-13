@@ -1,5 +1,5 @@
 ---
 title: "Excel Automotriz"
 url: /tegucigalpa/excel-automotriz/
-shop: Autohaus
+shop: coche
 ---

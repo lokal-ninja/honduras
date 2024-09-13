@@ -1,5 +1,5 @@
 ---
 title: "Hiper Antorcha"
 url: /san-pedro-sula/hiper-antorcha/
-shop: Supermarkt
+shop: supermercado
 ---

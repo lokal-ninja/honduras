@@ -1,5 +1,5 @@
 ---
 title: "Santa Monica"
 url: /tegucigalpa/santa-monica/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

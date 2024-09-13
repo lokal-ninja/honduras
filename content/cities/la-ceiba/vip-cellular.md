@@ -1,5 +1,5 @@
 ---
 title: "VIP Cellular"
 url: /la-ceiba/vip-cellular/
-shop: Handy
+shop: teléfono móvil
 ---

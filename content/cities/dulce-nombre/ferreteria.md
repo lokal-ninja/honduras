@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria"
 url: /dulce-nombre/ferreteria/
-shop: Eisenwaren
+shop: hardware
 ---

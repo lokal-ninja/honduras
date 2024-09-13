@@ -1,5 +1,5 @@
 ---
 title: "Rotu Printers"
 url: /siguatepeque/rotu-printers/
-shop: Allgemein
+shop: general
 ---

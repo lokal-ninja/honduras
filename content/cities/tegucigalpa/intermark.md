@@ -1,5 +1,5 @@
 ---
 title: "Intermark"
 url: /tegucigalpa/intermark/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hector's Office"
 url: /la-ceiba/hectors-office/
-shop: Schreibwaren
+shop: material de oficina
 ---

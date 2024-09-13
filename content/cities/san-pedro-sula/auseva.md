@@ -1,5 +1,5 @@
 ---
 title: "Auseva"
 url: /san-pedro-sula/auseva/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

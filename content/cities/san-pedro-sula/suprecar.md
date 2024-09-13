@@ -1,5 +1,5 @@
 ---
 title: "Suprecar"
 url: /san-pedro-sula/suprecar/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Despensa Familiar"
 url: /la-paz/despensa-familiar/
-shop: Supermarkt
+shop: supermercado
 ---

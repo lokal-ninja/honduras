@@ -1,5 +1,5 @@
 ---
 title: "Lotocentro"
 url: /siguatepeque/lotocentro/
-shop: Lotterie
+shop: lotería
 ---

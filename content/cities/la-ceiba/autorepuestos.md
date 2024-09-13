@@ -1,5 +1,5 @@
 ---
 title: "AutoRepuestos"
 url: /la-ceiba/autorepuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

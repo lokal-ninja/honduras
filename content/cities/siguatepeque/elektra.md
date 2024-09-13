@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /siguatepeque/elektra/
-shop: Elektronik
+shop: electrónica
 ---

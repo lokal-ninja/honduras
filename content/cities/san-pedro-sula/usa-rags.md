@@ -1,5 +1,5 @@
 ---
 title: "USA Rags"
 url: /san-pedro-sula/usa-rags/
-shop: Allgemein
+shop: general
 ---

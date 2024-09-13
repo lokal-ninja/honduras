@@ -1,5 +1,5 @@
 ---
 title: "Comercial Antanona"
 url: /comayagua/comercial-antanona/
-shop: Eisenwaren
+shop: hardware
 ---

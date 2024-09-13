@@ -1,5 +1,5 @@
 ---
 title: "Variedades Gbriela"
 url: /la-paz/variedades-gbriela/
-shop: Allgemein
+shop: general
 ---

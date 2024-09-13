@@ -1,5 +1,5 @@
 ---
 title: "Stetika Clínica Corporal"
 url: /el-progreso/stetika-clinica-corporal/
-shop: Kosmetik
+shop: cosméticos
 ---
