@@ -1,11 +1,11 @@
 id: 417105635
-type: way
+type: node
 latitude: 14.45819
 longitude: -87.64165
 postcode: ""
 city: Comayagua
-street: "1 Avenida NO"
-housenumber: 32
+street: 1 Avenida NO
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

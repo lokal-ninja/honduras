@@ -1,11 +1,11 @@
 id: 417318588
-type: way
+type: node
 latitude: 14.46125
 longitude: -87.64284
 postcode: ""
 city: Comayagua
-street: "6a Calle NO"
-housenumber: 16
-phone: "+504 2772-2042"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-16:00"
-website: "https://www.technosdesign.com/"
+street: 6a Calle NO
+housenumber: "16"
+phone: +504 2772-2042
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-16:00
+website: https://www.technosdesign.com/

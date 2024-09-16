@@ -1,11 +1,11 @@
 id: 403362672
-type: way
+type: node
 latitude: 14.10018
 longitude: -87.24068
 postcode: ""
 city: TEGUCIGALPA
-street: "Blv Fuerzas Armadas"
-housenumber: COLONIA CARRIZAL # 2
+street: Blv Fuerzas Armadas
+housenumber: 'COLONIA CARRIZAL # 2'
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 395201904
-type: way
+type: node
 latitude: 15.50465
 longitude: -88.01242
 postcode: "21101"
 city: San Pedro Sula
-street: "Bulevar del Este"
-housenumber: 1111
+street: Bulevar del Este
+housenumber: "1111"
 phone: ""
 opening_hours: ""
 website: ""

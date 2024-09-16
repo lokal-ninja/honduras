@@ -1,11 +1,11 @@
 id: 1227592945
-type: way
+type: node
 latitude: 14.07301
 longitude: -87.1931
 postcode: "11101"
 city: Tegucigalpa
-street: "Avenida Santa Cristina"
-housenumber: 1934
-phone: "+504 31812063"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Avenida Santa Cristina
+housenumber: "1934"
+phone: +504 31812063
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 417982401
-type: way
+type: node
 latitude: 15.5137
 longitude: -88.03526
 postcode: ""
 city: San Pedro Sula
-street: "Avenida Circunvalacion"
-housenumber: 2
+street: Avenida Circunvalacion
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 04:00-17:00"
+opening_hours: Mo-Su 04:00-17:00
 website: ""

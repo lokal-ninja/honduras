@@ -1,11 +1,11 @@
 id: 485608680
-type: way
+type: node
 latitude: 14.07602
 longitude: -87.22804
 postcode: ""
 city: comayaguela
-street: "Paseo Los Laureles"
-housenumber: 1
+street: Paseo Los Laureles
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

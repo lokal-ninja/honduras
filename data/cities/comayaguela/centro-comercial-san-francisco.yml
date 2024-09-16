@@ -1,11 +1,11 @@
 id: 485035487
-type: way
+type: node
 latitude: 14.08696
 longitude: -87.22808
 postcode: ""
 city: comayaguela
-street: "Paseo San Francisco"
-housenumber: 1
+street: Paseo San Francisco
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

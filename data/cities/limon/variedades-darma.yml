@@ -1,11 +1,11 @@
 id: 1234263647
-type: way
+type: node
 latitude: 15.86412
 longitude: -85.5028
 postcode: ""
 city: Limón
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

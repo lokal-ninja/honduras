@@ -1,11 +1,11 @@
 id: 418713645
-type: way
+type: node
 latitude: 15.49528
 longitude: -88.02578
 postcode: ""
 city: San Pedro Sula
-street: "3 Avenida SO"
-housenumber: 92
-phone: "+504 2553-1454"
+street: 3 Avenida SO
+housenumber: "92"
+phone: +504 2553-1454
 opening_hours: ""
 website: ""
