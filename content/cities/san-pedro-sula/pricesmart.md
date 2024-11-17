@@ -1,5 +1,5 @@
 ---
-title: "Pricesmart"
+title: "PriceSmart"
 url: /san-pedro-sula/pricesmart/
-shop: general
+shop: mayorista
 ---
