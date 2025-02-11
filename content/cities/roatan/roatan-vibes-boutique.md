@@ -1,5 +1,5 @@
 ---
 title: "Roatan Vibes Boutique"
-url: /west-end/roatan-vibes-boutique/
+url: /roatan/roatan-vibes-boutique/
 shop: ropa
 ---
