@@ -1,6 +1,6 @@
 ---
 title: San Pedro Sula
 url: /san-pedro-sula/
-latitude: 15.506
-longitude: -88.028
+latitude: 15.439
+longitude: -87.927
 ---
