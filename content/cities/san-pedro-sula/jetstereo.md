@@ -1,5 +1,5 @@
 ---
-title: "JetStereo"
+title: "Jetstereo"
 url: /san-pedro-sula/jetstereo/
-shop: general
+shop: electrónica
 ---

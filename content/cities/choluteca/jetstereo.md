@@ -1,5 +1,5 @@
 ---
-title: "JETSTEREO"
+title: "Jetstereo"
 url: /choluteca/jetstereo/
-shop: general
+shop: electrónica
 ---

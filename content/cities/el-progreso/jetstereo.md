@@ -1,5 +1,5 @@
 ---
-title: "JetStereo"
+title: "Jetstereo"
 url: /el-progreso/jetstereo/
-shop: general
+shop: electrónica
 ---
