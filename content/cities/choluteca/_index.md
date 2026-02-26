@@ -1,6 +1,6 @@
 ---
 title: Choluteca
 url: /choluteca/
-latitude: 13.305
-longitude: -87.191
+latitude: 13.309
+longitude: -87.187
 ---
