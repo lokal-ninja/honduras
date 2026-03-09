@@ -1,6 +1,6 @@
 ---
 title: Tegucigalpa
 url: /tegucigalpa/
-latitude: 14.082
-longitude: -87.202
+latitude: 14.047
+longitude: -87.22
 ---
