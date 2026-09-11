@@ -1,5 +1,5 @@
 ---
-title: "Casa Marmol"
+title: "Casa Mármol"
 url: /san-pedro-sula/casa-marmol/
-shop: general
+shop: muebles
 ---

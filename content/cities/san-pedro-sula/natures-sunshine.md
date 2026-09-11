@@ -1,5 +1,5 @@
 ---
-title: "Natures Sunshine"
+title: "Nature's Sunshine"
 url: /san-pedro-sula/natures-sunshine/
-shop: general
+shop: suplementos nutricionales
 ---
